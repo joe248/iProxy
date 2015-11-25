@@ -1,6 +1,4 @@
-This is a fork of the original iProxy project with a few small tweaks that allow it to function on iOS 7. The project is in need of a major update, but at least these few changes will keep it on life support as iOS progresses forward.
-
-Note that if you are running OS X Mavericks (the only OS tested) you will need to perform an additional setup step: Add the IP address of your iOS device running iProxy (as listed in the iOS Wi-Fi settings) into the "DNS Servers" field of the OS X Network Preferences Pane for the Wi-Fi connection.
+This fork brings xcode 7 support for this project. Should build after opening the project file immediately.
 
 Original README below:
 
